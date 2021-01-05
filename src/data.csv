@@ -1,4 +1,7 @@
 Date,User,Tag1,Tag2,Tag3,Link
+2021-01-04 02:32:16+00:00,RealRadOne,ML,Comic,,https://cloud.google.com/products/ai/ml-comic-1
+2021-01-04 02:22:35+00:00,RealRadOne,DataBase,Redis,Memcached,https://stackoverflow.com/questions/10558465/memcached-vs-redis
+2021-01-04 02:19:29+00:00,RealRadOne,DataBase,Tutorial,Memcached,https://github.com/memcached/memcached/wiki/TutorialCachingStory
 2021-01-02 12:14:16+00:00,RealRadOne,DataBase,CMDB,Cobbler, https://cobbler.github.io/quickstart/
 2021-01-01 11:30:38+00:00,siddish_ir,nodejs,guide,,https://github.com/goldbergyoni/nodebestpractices#readme
 2020-12-30 03:09:40+00:00,RealRadOne,Ansible,Bug,Fixes, https://www.reddit.com/r/ansible/comments/dsk4x6/being_escaped_in_extravars/

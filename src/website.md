@@ -129,6 +129,9 @@
 - [https://www.youtube.com/watch?v=7EmboKQH8lM](https://www.youtube.com/watch?v=7EmboKQH8lM)
 - [https://javascript.info](https://javascript.info)
 - [https://a11yresources.webflow.io](https://a11yresources.webflow.io)
+## Comic
+###  
+- [https://cloud.google.com/products/ai/ml-comic-1](https://cloud.google.com/products/ai/ml-comic-1)
 ## Comics
 ###  
 - [https://howhttps.works/why-do-we-need-https/](https://howhttps.works/why-do-we-need-https/)
@@ -178,6 +181,8 @@
 - [https://www.youtube.com/playlist?list=PLlz0muypSBNbd6VbNdU9cCzCQx8_dU7Hy](https://www.youtube.com/playlist?list=PLlz0muypSBNbd6VbNdU9cCzCQx8_dU7Hy)
 ## DataBase
 ###  
+- [https://stackoverflow.com/questions/10558465/memcached-vs-redis](https://stackoverflow.com/questions/10558465/memcached-vs-redis)
+- [https://github.com/memcached/memcached/wiki/TutorialCachingStory](https://github.com/memcached/memcached/wiki/TutorialCachingStory)
 - [ https://cobbler.github.io/quickstart/]( https://cobbler.github.io/quickstart/)
 ## Database
 ###  
@@ -405,6 +410,7 @@
 - [https://makelinux.github.io/kernel/map/](https://makelinux.github.io/kernel/map/)
 ## ML
 ###  
+- [https://cloud.google.com/products/ai/ml-comic-1](https://cloud.google.com/products/ai/ml-comic-1)
 - [https://www.kaggle.com/rhodiumbeng/classifying-multi-label-comments-0-9741-lb](https://www.kaggle.com/rhodiumbeng/classifying-multi-label-comments-0-9741-lb)
 - [https://orange.biolab.si/](https://orange.biolab.si/)
 - [https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
@@ -434,6 +440,10 @@
 ###  
 - [https://codeforces.com/blog/entry/77137](https://codeforces.com/blog/entry/77137)
 - [https://www.mecharithm.com/latex-to-html/](https://www.mecharithm.com/latex-to-html/)
+## Memcached
+###  
+- [https://stackoverflow.com/questions/10558465/memcached-vs-redis](https://stackoverflow.com/questions/10558465/memcached-vs-redis)
+- [https://github.com/memcached/memcached/wiki/TutorialCachingStory](https://github.com/memcached/memcached/wiki/TutorialCachingStory)
 ## Moment
 ###  
 - [https://github.com/iamkun/dayjs](https://github.com/iamkun/dayjs)
@@ -574,6 +584,9 @@
 ## Reddit
 ###  
 - [ https://anvaka.github.io/sayit/?query=]( https://anvaka.github.io/sayit/?query=)
+## Redis
+###  
+- [https://stackoverflow.com/questions/10558465/memcached-vs-redis](https://stackoverflow.com/questions/10558465/memcached-vs-redis)
 ## Redux
 ###  
 - [https://dev.to/nas5w/learn-the-basics-of-redux-by-writing-your-own-version-in-30-lines-1if3](https://dev.to/nas5w/learn-the-basics-of-redux-by-writing-your-own-version-in-30-lines-1if3)
@@ -710,6 +723,7 @@
 - [https://gnulinux.guru/](https://gnulinux.guru/)
 ## Tutorial
 ###  
+- [https://github.com/memcached/memcached/wiki/TutorialCachingStory](https://github.com/memcached/memcached/wiki/TutorialCachingStory)
 - [ https://www.atlassian.com/agile]( https://www.atlassian.com/agile)
 - [https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 - [https://www.codekarle.com/](https://www.codekarle.com/)
