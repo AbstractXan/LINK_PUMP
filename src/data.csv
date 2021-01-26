@@ -1,4 +1,34 @@
 Date,User,Tag1,Tag2,Tag3,Link
+2021-01-26 10:21:21+00:00,Abstractxan,Unity,GameAssets,,https://kenney.nl/assets
+2021-01-26 04:40:44+00:00,RealRadOne,Collection,CP,, https://www.youtube.com/watch?v=wvVqDkX8U4A&list=PLl0KD3g-oDOHElCF7S7q6CRGz1qG8vQkS
+2021-01-26 04:39:33+00:00,RealRadOne,Collection,C++,STL, https://www.youtube.com/watch?v=bRxzCeyOKD0&list=PLVFrD1dmDdve4h3Shk0uePpXp8JUMM1w5&index=4
+2021-01-26 04:01:10+00:00,Abstractxan,ComputerOrganization,Collection,,https://www.youtube.com/watch?v=Ou-D8x72xBc&list=PLPiOSvowot1Ky0_OiXzpA0vU09iI06lQb
+2021-01-25 05:46:50+00:00,siddish_ir,Julia,Course,Tutorial,https://ocw.mit.edu/courses/mathematics/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/index.htm
+2021-01-22 15:14:48+00:00,RealRadOne,Collection,Ansible,,https://www.youtube.com/watch?v=goclfp6a2IQ&list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN
+2021-01-21 09:43:38+00:00,RealRadOne,Collection,OS.Linux,, https://tldp.org/LDP/tlk/tlk-toc.html
+2021-01-21 05:43:17+00:00,RealRadOne,Linux,Curl,, https://www.youtube.com/watch?v=6ueyZGhtj1Q
+2021-01-21 05:42:36+00:00,RealRadOne,Collection,Networking,, https://www.youtube.com/watch?v=HCHFX5O1IaQ&list=PLW8bTPfXNGdAZIKv-y9v_XLXtEqrPtntm
+2021-01-21 03:25:53+00:00,siddish_ir,collection,microservices,design,https://microservices.io/
+2021-01-20 06:48:34+00:00,Abstractxan,Music,Collection,Tutorials,https://learningmusic.ableton.com
+2021-01-20 06:47:51+00:00,Abstractxan,Tools,,,https://www.shotcut.org/download/
+2021-01-20 05:31:25+00:00,Abstractxan,Design,Competitions,,https://www.graphis.com/competitions/recent-entries/
+2021-01-17 04:38:39+00:00,RealRadOne,Linux,Introductory,, https://www.slideshare.net/jakonix/5textmining
+2021-01-16 11:58:16+00:00,RealRadOne,Commands,Windows,,Scheduled-Tasks https://docs.microsoft.com/en-us/sysinternals/downloads/pstools
+2021-01-16 11:11:38+00:00,Abstractxan,Art,Tools,,https://amorphous.itch.io/strike
+2021-01-15 05:51:37+00:00,RealRadOne,Ansible,Jinja2,, https://jinja.palletsprojects.com/en/master/templates/
+2021-01-14 09:22:04+00:00,RealRadOne,Networks,Authentication,Kerberos, https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/kerberos-for-the-busy-admin/ba-p/395083
+2021-01-14 07:57:32+00:00,Abstractxan,XS,Security,,https://owasp.org/www-community/attacks/xss/
+2021-01-14 04:53:56+00:00,Abstractxan,Portfolio,,,http://nealford.com
+2021-01-10 12:33:43+00:00,RealRadOne,Collection,IRC,,http://www.irchelp.org/
+2021-01-10 04:16:37+00:00,RealRadOne,Tools,Productivity,Bubble,https://www.usebubbles.com/
+2021-01-07 15:18:59+00:00,siddish_ir,Tutorial, SQL, Databases, https://sqlzoo.net/
+2021-01-07 14:20:24+00:00,RealRadOne,Tool, Productivity,,Editing https://www.youtube.com/watch?v=Bl9wqNe5J8U&feature=youtu.be
+2021-01-06 08:34:26+00:00,None,Article, Pandas Dataframes,,https://dev.to/discdiver/the-weird-world-of-missing-values-in-pandas-3kph
+2021-01-06 08:33:47+00:00,None,Article, Python,, https://www.guru99.com/python-counter-collections-example.html
+2021-01-05 05:42:20+00:00,Abstractxan,Notes,Databases,,https://spots.augusta.edu/caubert/db/ln/
+2021-01-04 09:35:59+00:00,Abstractxan,Concurrency,Programming,,https://dev.to/deepu105/concurrency-in-modern-programming-languages-rust-19co
+2021-01-04 09:34:35+00:00,Abstractxan,Article,Regex,,https://dev.to/blakecodez/step-up-your-regex-game-5689
+2021-01-04 09:01:40+00:00,Abstractxan,CSS,,,https://www.bonsaicss.com/
 2021-01-04 02:32:16+00:00,RealRadOne,ML,Comic,,https://cloud.google.com/products/ai/ml-comic-1
 2021-01-04 02:22:35+00:00,RealRadOne,DataBase,Redis,Memcached,https://stackoverflow.com/questions/10558465/memcached-vs-redis
 2021-01-04 02:19:29+00:00,RealRadOne,DataBase,Tutorial,Memcached,https://github.com/memcached/memcached/wiki/TutorialCachingStory

@@ -12,6 +12,8 @@
 - [https://www.pcmaffey.com/roll-your-own-analytics](https://www.pcmaffey.com/roll-your-own-analytics)
 ## Ansible
 ###  
+- [https://www.youtube.com/watch?v=goclfp6a2IQ&list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN](https://www.youtube.com/watch?v=goclfp6a2IQ&list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN)
+- [ https://jinja.palletsprojects.com/en/master/templates/]( https://jinja.palletsprojects.com/en/master/templates/)
 - [ https://www.reddit.com/r/ansible/comments/dsk4x6/being_escaped_in_extravars/]( https://www.reddit.com/r/ansible/comments/dsk4x6/being_escaped_in_extravars/)
 - [https://geekflare.com/ansible-ad-hoc-command/](https://geekflare.com/ansible-ad-hoc-command/)
 ## Apple
@@ -21,8 +23,14 @@
 ###  
 - [https://c4model.com](https://c4model.com)
 - [https://virtualizationreview.com/Articles/2015/06/01/High-Availability.aspx?m=1&Page=1](https://virtualizationreview.com/Articles/2015/06/01/High-Availability.aspx?m=1&Page=1)
+## Art
+###  
+- [https://amorphous.itch.io/strike](https://amorphous.itch.io/strike)
 ## Article
 ###  
+- [https://dev.to/discdiver/the-weird-world-of-missing-values-in-pandas-3kph](https://dev.to/discdiver/the-weird-world-of-missing-values-in-pandas-3kph)
+- [ https://www.guru99.com/python-counter-collections-example.html]( https://www.guru99.com/python-counter-collections-example.html)
+- [https://dev.to/blakecodez/step-up-your-regex-game-5689](https://dev.to/blakecodez/step-up-your-regex-game-5689)
 - [http://cultureandcommunication.org/galloway/anti-computer](http://cultureandcommunication.org/galloway/anti-computer)
 - [https://en.wikipedia.org/wiki/Knowledge_worker](https://en.wikipedia.org/wiki/Knowledge_worker)
 - [https://www.pcmaffey.com/roll-your-own-analytics](https://www.pcmaffey.com/roll-your-own-analytics)
@@ -32,6 +40,9 @@
 ## Article.Compiler
 ###  
 - [https://medium.com/@alitech_2017/gcc-vs-clang-llvm-an-in-depth-comparison-of-c-c-compilers-899ede2be378](https://medium.com/@alitech_2017/gcc-vs-clang-llvm-an-in-depth-comparison-of-c-c-compilers-899ede2be378)
+## Authentication
+###  
+- [ https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/kerberos-for-the-busy-admin/ba-p/395083]( https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/kerberos-for-the-busy-admin/ba-p/395083)
 ## Automation
 ###  
 - [https://dev.to/thementor/i-run-powershell-on-android-and-so-can-you-458k](https://dev.to/thementor/i-run-powershell-on-android-and-so-can-you-458k)
@@ -43,6 +54,9 @@
 ## Browser
 ###  
 - [https://qutebrowser.org/](https://qutebrowser.org/)
+## Bubble
+###  
+- [https://www.usebubbles.com/](https://www.usebubbles.com/)
 ## Bug
 ###  
 - [ https://www.reddit.com/r/ansible/comments/dsk4x6/being_escaped_in_extravars/]( https://www.reddit.com/r/ansible/comments/dsk4x6/being_escaped_in_extravars/)
@@ -53,6 +67,7 @@
 - [http://www.eprg.org/pdfcorner/text2pdf/](http://www.eprg.org/pdfcorner/text2pdf/)
 ## C++
 ###  
+- [ https://www.youtube.com/watch?v=bRxzCeyOKD0&list=PLVFrD1dmDdve4h3Shk0uePpXp8JUMM1w5&index=4]( https://www.youtube.com/watch?v=bRxzCeyOKD0&list=PLVFrD1dmDdve4h3Shk0uePpXp8JUMM1w5&index=4)
 - [https://github.com/texus/TGUI](https://github.com/texus/TGUI)
 - [https://youtu.be/2olsGf6JIkU](https://youtu.be/2olsGf6JIkU)
 - [https://github.com/ocornut/imgui](https://github.com/ocornut/imgui)
@@ -79,9 +94,13 @@
 - [https://www.serverless.com/blog/cors-api-gateway-survival-guide](https://www.serverless.com/blog/cors-api-gateway-survival-guide)
 ## CP
 ###  
+- [ https://www.youtube.com/watch?v=wvVqDkX8U4A&list=PLl0KD3g-oDOHElCF7S7q6CRGz1qG8vQkS]( https://www.youtube.com/watch?v=wvVqDkX8U4A&list=PLl0KD3g-oDOHElCF7S7q6CRGz1qG8vQkS)
 - [https://cses.fi/book/book.pdf](https://cses.fi/book/book.pdf)
 - [ https://cp-algorithms.com/]( https://cp-algorithms.com/)
 - [https://stackoverflow.com/questions/53678392/h-tree-using-recursion-python](https://stackoverflow.com/questions/53678392/h-tree-using-recursion-python)
+## CSS
+###  
+- [https://www.bonsaicss.com/](https://www.bonsaicss.com/)
 ## Chat
 ###  
 - [https://year.chat/](https://year.chat/)
@@ -99,6 +118,15 @@
 - [https://www.youtube.com/playlist?list=PLLucmoeZjtMQK8T111wCvqnfOd0qGFqzL](https://www.youtube.com/playlist?list=PLLucmoeZjtMQK8T111wCvqnfOd0qGFqzL)
 ## Collection
 ###  
+- [ https://www.youtube.com/watch?v=wvVqDkX8U4A&list=PLl0KD3g-oDOHElCF7S7q6CRGz1qG8vQkS]( https://www.youtube.com/watch?v=wvVqDkX8U4A&list=PLl0KD3g-oDOHElCF7S7q6CRGz1qG8vQkS)
+- [ https://www.youtube.com/watch?v=bRxzCeyOKD0&list=PLVFrD1dmDdve4h3Shk0uePpXp8JUMM1w5&index=4]( https://www.youtube.com/watch?v=bRxzCeyOKD0&list=PLVFrD1dmDdve4h3Shk0uePpXp8JUMM1w5&index=4)
+- [https://www.youtube.com/watch?v=Ou-D8x72xBc&list=PLPiOSvowot1Ky0_OiXzpA0vU09iI06lQb](https://www.youtube.com/watch?v=Ou-D8x72xBc&list=PLPiOSvowot1Ky0_OiXzpA0vU09iI06lQb)
+- [https://www.youtube.com/watch?v=goclfp6a2IQ&list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN](https://www.youtube.com/watch?v=goclfp6a2IQ&list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN)
+- [ https://tldp.org/LDP/tlk/tlk-toc.html]( https://tldp.org/LDP/tlk/tlk-toc.html)
+- [ https://www.youtube.com/watch?v=HCHFX5O1IaQ&list=PLW8bTPfXNGdAZIKv-y9v_XLXtEqrPtntm]( https://www.youtube.com/watch?v=HCHFX5O1IaQ&list=PLW8bTPfXNGdAZIKv-y9v_XLXtEqrPtntm)
+- [https://microservices.io/](https://microservices.io/)
+- [https://learningmusic.ableton.com](https://learningmusic.ableton.com)
+- [http://www.irchelp.org/](http://www.irchelp.org/)
 - [http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf)
 - [https://www.howtobuildsoftware.com](https://www.howtobuildsoftware.com)
 - [https://opguides.info](https://opguides.info)
@@ -135,9 +163,18 @@
 ## Comics
 ###  
 - [https://howhttps.works/why-do-we-need-https/](https://howhttps.works/why-do-we-need-https/)
+## Commands
+###  
+- [Scheduled-Tasks https://docs.microsoft.com/en-us/sysinternals/downloads/pstools](Scheduled-Tasks https://docs.microsoft.com/en-us/sysinternals/downloads/pstools)
+## Competitions
+###  
+- [https://www.graphis.com/competitions/recent-entries/](https://www.graphis.com/competitions/recent-entries/)
 ## Computer
 ###  
 - [https://github.com/lauris/awesome-scala#graphical-user-interfaces](https://github.com/lauris/awesome-scala#graphical-user-interfaces)
+## ComputerOrganization
+###  
+- [https://www.youtube.com/watch?v=Ou-D8x72xBc&list=PLPiOSvowot1Ky0_OiXzpA0vU09iI06lQb](https://www.youtube.com/watch?v=Ou-D8x72xBc&list=PLPiOSvowot1Ky0_OiXzpA0vU09iI06lQb)
 ## Computers
 ###  
 - [https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
@@ -150,12 +187,19 @@
 ## Concept
 ###  
 - [https://stackoverflow.com/questions/53678392/h-tree-using-recursion-python](https://stackoverflow.com/questions/53678392/h-tree-using-recursion-python)
+## Concurrency
+###  
+- [https://dev.to/deepu105/concurrency-in-modern-programming-languages-rust-19co](https://dev.to/deepu105/concurrency-in-modern-programming-languages-rust-19co)
 ## Cookbook
 ###  
 - [https://serviceworke.rs/](https://serviceworke.rs/)
 ## Course
 ###  
+- [https://ocw.mit.edu/courses/mathematics/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/index.htm](https://ocw.mit.edu/courses/mathematics/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/index.htm)
 - [https://github.com/pingcap/talent-plan/](https://github.com/pingcap/talent-plan/)
+## Curl
+###  
+- [ https://www.youtube.com/watch?v=6ueyZGhtj1Q]( https://www.youtube.com/watch?v=6ueyZGhtj1Q)
 ## Cybersecurity
 ###  
 - [https://anonymousplanet.github.io/thgtoa/guide.html](https://anonymousplanet.github.io/thgtoa/guide.html)
@@ -189,6 +233,8 @@
 - [http://www.corpit.ru/mjt/tinycdb.html](http://www.corpit.ru/mjt/tinycdb.html)
 ## Databases
 ###  
+- [ https://sqlzoo.net/]( https://sqlzoo.net/)
+- [https://spots.augusta.edu/caubert/db/ln/](https://spots.augusta.edu/caubert/db/ln/)
 - [https://www.youtube.com/watch?v=aYDBdevdwyQ](https://www.youtube.com/watch?v=aYDBdevdwyQ)
 - [https://www.percona.com](https://www.percona.com)
 - [https://dbdb.io/](https://dbdb.io/)
@@ -199,6 +245,8 @@
 - [https://www.youtube.com/watch?v=HubezKbFL7E](https://www.youtube.com/watch?v=HubezKbFL7E)
 ## Design
 ###  
+- [https://microservices.io/](https://microservices.io/)
+- [https://www.graphis.com/competitions/recent-entries/](https://www.graphis.com/competitions/recent-entries/)
 - [https://tonsky.me/blog/github-redesign/](https://tonsky.me/blog/github-redesign/)
 - [https://openpeeps.com/](https://openpeeps.com/)
 - [https://www.bookmarks.design/](https://www.bookmarks.design/)
@@ -300,6 +348,9 @@
 ###  
 - [https://ncase.me/trust/](https://ncase.me/trust/)
 - [https://learn.unity.com/project/beginner-gameplay-scripting](https://learn.unity.com/project/beginner-gameplay-scripting)
+## GameAssets
+###  
+- [https://kenney.nl/assets](https://kenney.nl/assets)
 ## GameJam
 ###  
 - [https://js13kgames.com](https://js13kgames.com)
@@ -355,6 +406,9 @@
 ## History
 ###  
 - [  https://getmemex.com](  https://getmemex.com)
+## IRC
+###  
+- [http://www.irchelp.org/](http://www.irchelp.org/)
 ## Image
 ###  
 - [https://www.geometrize.co.uk](https://www.geometrize.co.uk)
@@ -366,6 +420,9 @@
 - [https://rb.gy/qmbbin](https://rb.gy/qmbbin)
 - [https://www.youtube.com/playlist?list=PLLucmoeZjtMSl5kTg7IjPkVGy7kUEbqsG](https://www.youtube.com/playlist?list=PLLucmoeZjtMSl5kTg7IjPkVGy7kUEbqsG)
 - [https://www.youtube.com/playlist?list=PLLucmoeZjtMQK8T111wCvqnfOd0qGFqzL](https://www.youtube.com/playlist?list=PLLucmoeZjtMQK8T111wCvqnfOd0qGFqzL)
+## Introductory
+###  
+- [ https://www.slideshare.net/jakonix/5textmining]( https://www.slideshare.net/jakonix/5textmining)
 ## Java
 ###  
 - [https://java2blog.com/spring-mvc-tutorial/](https://java2blog.com/spring-mvc-tutorial/)
@@ -382,9 +439,18 @@
 - [https://dev.to/gabrieltanner/an-introduction-to-testing-in-javascript-54jc](https://dev.to/gabrieltanner/an-introduction-to-testing-in-javascript-54jc)
 - [https://javascript.info](https://javascript.info)
 - [https://latex.js.org](https://latex.js.org)
+## Jinja2
+###  
+- [ https://jinja.palletsprojects.com/en/master/templates/]( https://jinja.palletsprojects.com/en/master/templates/)
 ## Journal
 ###  
 - [https://jrnl.sh/](https://jrnl.sh/)
+## Julia
+###  
+- [https://ocw.mit.edu/courses/mathematics/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/index.htm](https://ocw.mit.edu/courses/mathematics/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/index.htm)
+## Kerberos
+###  
+- [ https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/kerberos-for-the-busy-admin/ba-p/395083]( https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/kerberos-for-the-busy-admin/ba-p/395083)
 ## Keyboard
 ###  
 - [https://karabiner-elements.pqrs.org](https://karabiner-elements.pqrs.org)
@@ -407,6 +473,8 @@
 - [https://fullcalendar.io](https://fullcalendar.io)
 ## Linux
 ###  
+- [ https://www.youtube.com/watch?v=6ueyZGhtj1Q]( https://www.youtube.com/watch?v=6ueyZGhtj1Q)
+- [ https://www.slideshare.net/jakonix/5textmining]( https://www.slideshare.net/jakonix/5textmining)
 - [https://makelinux.github.io/kernel/map/](https://makelinux.github.io/kernel/map/)
 ## ML
 ###  
@@ -444,6 +512,9 @@
 ###  
 - [https://stackoverflow.com/questions/10558465/memcached-vs-redis](https://stackoverflow.com/questions/10558465/memcached-vs-redis)
 - [https://github.com/memcached/memcached/wiki/TutorialCachingStory](https://github.com/memcached/memcached/wiki/TutorialCachingStory)
+## Microservices
+###  
+- [https://microservices.io/](https://microservices.io/)
 ## Moment
 ###  
 - [https://github.com/iamkun/dayjs](https://github.com/iamkun/dayjs)
@@ -456,6 +527,9 @@
 ## Mozilla
 ###  
 - [http://dream.netizen.org/events.html](http://dream.netizen.org/events.html)
+## Music
+###  
+- [https://learningmusic.ableton.com](https://learningmusic.ableton.com)
 ## NLP
 ###  
 - [https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
@@ -464,15 +538,18 @@
 - [https://www.youtube.com/watch?v=drJwMlD9Mjo](https://www.youtube.com/watch?v=drJwMlD9Mjo)
 ## Networking
 ###  
+- [ https://www.youtube.com/watch?v=HCHFX5O1IaQ&list=PLW8bTPfXNGdAZIKv-y9v_XLXtEqrPtntm]( https://www.youtube.com/watch?v=HCHFX5O1IaQ&list=PLW8bTPfXNGdAZIKv-y9v_XLXtEqrPtntm)
 - [https://www.youtube.com/playlist?list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN](https://www.youtube.com/playlist?list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN)
 ## Networks
 ###  
+- [ https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/kerberos-for-the-busy-admin/ba-p/395083]( https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/kerberos-for-the-busy-admin/ba-p/395083)
 - [https://howhttps.works/why-do-we-need-https/](https://howhttps.works/why-do-we-need-https/)
 ## Nodejs
 ###  
 - [https://github.com/goldbergyoni/nodebestpractices#readme](https://github.com/goldbergyoni/nodebestpractices#readme)
 ## Notes
 ###  
+- [https://spots.augusta.edu/caubert/db/ln/](https://spots.augusta.edu/caubert/db/ln/)
 - [https://mentalpivot.com/zettelkasten-101-a-reading-list-for-beginners/](https://mentalpivot.com/zettelkasten-101-a-reading-list-for-beginners/)
 ## Notetalking
 ###  
@@ -488,6 +565,9 @@
 ###  
 - [https://github.com/klikaba/klika-os](https://github.com/klikaba/klika-os)
 - [https://github.com/marvinborner/Melvix](https://github.com/marvinborner/Melvix)
+## OS.Linux
+###  
+- [ https://tldp.org/LDP/tlk/tlk-toc.html]( https://tldp.org/LDP/tlk/tlk-toc.html)
 ## OpenSource
 ###  
 - [https://contribute.dev/](https://contribute.dev/)
@@ -505,6 +585,9 @@
 ## PKM
 ###  
 - [https://mentalpivot.com/zettelkasten-101-a-reading-list-for-beginners/](https://mentalpivot.com/zettelkasten-101-a-reading-list-for-beginners/)
+## PandasDataframes
+###  
+- [https://dev.to/discdiver/the-weird-world-of-missing-values-in-pandas-3kph](https://dev.to/discdiver/the-weird-world-of-missing-values-in-pandas-3kph)
 ## Parser
 ###  
 - [http://genparse.sourceforge.net/](http://genparse.sourceforge.net/)
@@ -516,6 +599,7 @@
 - [https://vim.fandom.com/wiki/Use_Vim_like_an_IDE](https://vim.fandom.com/wiki/Use_Vim_like_an_IDE)
 ## Portfolio
 ###  
+- [http://nealford.com](http://nealford.com)
 - [https://avanier.now.sh/](https://avanier.now.sh/)
 - [https://nikitavoloboev.xyz/](https://nikitavoloboev.xyz/)
 - [https://drewdevault.com/](https://drewdevault.com/)
@@ -532,6 +616,8 @@
 - [https://www.youtube.com/watch?v=wbpMiKiSKm8&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3](https://www.youtube.com/watch?v=wbpMiKiSKm8&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3)
 ## Productivity
 ###  
+- [https://www.usebubbles.com/](https://www.usebubbles.com/)
+- [Editing https://www.youtube.com/watch?v=Bl9wqNe5J8U&feature=youtu.be](Editing https://www.youtube.com/watch?v=Bl9wqNe5J8U&feature=youtu.be)
 - [https://github.com/johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)
 - [https://plaintextproject.online/tools.html](https://plaintextproject.online/tools.html)
 - [https://todoist.com/productivity-methods](https://todoist.com/productivity-methods)
@@ -540,6 +626,7 @@
 - [https://youtu.be/65Wq4fjREUU](https://youtu.be/65Wq4fjREUU)
 ## Programming
 ###  
+- [https://dev.to/deepu105/concurrency-in-modern-programming-languages-rust-19co](https://dev.to/deepu105/concurrency-in-modern-programming-languages-rust-19co)
 - [https://cses.fi/book/book.pdf](https://cses.fi/book/book.pdf)
 - [http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf)
 - [https://github.com/rby90/Project-Based-Tutorials-in-C](https://github.com/rby90/Project-Based-Tutorials-in-C)
@@ -558,6 +645,9 @@
 - [http://www.gnu.org/software/make/manual/make.html#Introduction](http://www.gnu.org/software/make/manual/make.html#Introduction)
 - [http://makefiletutorial.com](http://makefiletutorial.com)
 - [http://nuclear.mutantstargoat.com/articles/make/](http://nuclear.mutantstargoat.com/articles/make/)
+## Python
+###  
+- [ https://www.guru99.com/python-counter-collections-example.html]( https://www.guru99.com/python-counter-collections-example.html)
 ## QuantifiedSelf
 ###  
 - [ https://www.reddit.com/r/personalfinance/wiki/tools]( https://www.reddit.com/r/personalfinance/wiki/tools)
@@ -590,6 +680,9 @@
 ## Redux
 ###  
 - [https://dev.to/nas5w/learn-the-basics-of-redux-by-writing-your-own-version-in-30-lines-1if3](https://dev.to/nas5w/learn-the-basics-of-redux-by-writing-your-own-version-in-30-lines-1if3)
+## Regex
+###  
+- [https://dev.to/blakecodez/step-up-your-regex-game-5689](https://dev.to/blakecodez/step-up-your-regex-game-5689)
 ## Roadmap
 ###  
 - [https://dancres.github.io/Pages/](https://dancres.github.io/Pages/)
@@ -599,11 +692,15 @@
 ## SDEInterview
 ###  
 - [ https://workat.tech/machine-coding/article/what-is-a-machine-coding-round-omfn1w54ojlg]( https://workat.tech/machine-coding/article/what-is-a-machine-coding-round-omfn1w54ojlg)
+## SQL
+###  
+- [ https://sqlzoo.net/]( https://sqlzoo.net/)
 ## SRE
 ###  
 - [https://linkedin.github.io/school-of-sre/](https://linkedin.github.io/school-of-sre/)
 ## STL
 ###  
+- [ https://www.youtube.com/watch?v=bRxzCeyOKD0&list=PLVFrD1dmDdve4h3Shk0uePpXp8JUMM1w5&index=4]( https://www.youtube.com/watch?v=bRxzCeyOKD0&list=PLVFrD1dmDdve4h3Shk0uePpXp8JUMM1w5&index=4)
 - [https://youtu.be/2olsGf6JIkU](https://youtu.be/2olsGf6JIkU)
 ## Scala
 ###  
@@ -612,6 +709,9 @@
 ###  
 - [https://dev.to/thementor/i-run-powershell-on-android-and-so-can-you-458k](https://dev.to/thementor/i-run-powershell-on-android-and-so-can-you-458k)
 - [https://www.howtogeek.com/117192/how-to-run-powershell-commands-on-remote-computers/](https://www.howtogeek.com/117192/how-to-run-powershell-commands-on-remote-computers/)
+## Security
+###  
+- [https://owasp.org/www-community/attacks/xss/](https://owasp.org/www-community/attacks/xss/)
 ## SelfHosted
 ###  
 - [https://www.bookstackapp.com/](https://www.bookstackapp.com/)
@@ -689,6 +789,7 @@
 - [https://gitlab.com/joshavanier/log](https://gitlab.com/joshavanier/log)
 ## Tool
 ###  
+- [Editing https://www.youtube.com/watch?v=Bl9wqNe5J8U&feature=youtu.be](Editing https://www.youtube.com/watch?v=Bl9wqNe5J8U&feature=youtu.be)
 - [https://year.chat/](https://year.chat/)
 - [ https://anvaka.github.io/sayit/?query=]( https://anvaka.github.io/sayit/?query=)
 - [https://url.dev/](https://url.dev/)
@@ -711,6 +812,9 @@
 - [https://nesslabs.com/how-to-choose-the-right-note-taking-app](https://nesslabs.com/how-to-choose-the-right-note-taking-app)
 ## Tools
 ###  
+- [https://www.shotcut.org/download/](https://www.shotcut.org/download/)
+- [https://amorphous.itch.io/strike](https://amorphous.itch.io/strike)
+- [https://www.usebubbles.com/](https://www.usebubbles.com/)
 - [https://extensionizr.com/](https://extensionizr.com/)
 - [https://bbodi.github.io/notecalc3/](https://bbodi.github.io/notecalc3/)
 - [https://anonymousplanet.github.io/thgtoa/guide.html](https://anonymousplanet.github.io/thgtoa/guide.html)
@@ -723,6 +827,8 @@
 - [https://gnulinux.guru/](https://gnulinux.guru/)
 ## Tutorial
 ###  
+- [https://ocw.mit.edu/courses/mathematics/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/index.htm](https://ocw.mit.edu/courses/mathematics/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/index.htm)
+- [ https://sqlzoo.net/]( https://sqlzoo.net/)
 - [https://github.com/memcached/memcached/wiki/TutorialCachingStory](https://github.com/memcached/memcached/wiki/TutorialCachingStory)
 - [ https://www.atlassian.com/agile]( https://www.atlassian.com/agile)
 - [https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
@@ -744,11 +850,13 @@
 - [https://www.youtube.com/watch?v=E-ZbrtoSuzw](https://www.youtube.com/watch?v=E-ZbrtoSuzw)
 ## Tutorials
 ###  
+- [https://learningmusic.ableton.com](https://learningmusic.ableton.com)
 - [https://youtu.be/2Fn0WAyZV0E?t=4158](https://youtu.be/2Fn0WAyZV0E?t=4158)
 - [https://seeing-theory.brown.edu/](https://seeing-theory.brown.edu/)
 - [https://wintermutedigital.com](https://wintermutedigital.com)
 ## Unity
 ###  
+- [https://kenney.nl/assets](https://kenney.nl/assets)
 - [https://www.youtube.com/watch?v=wbpMiKiSKm8&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3](https://www.youtube.com/watch?v=wbpMiKiSKm8&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3)
 - [https://learn.unity.com/project/beginner-gameplay-scripting](https://learn.unity.com/project/beginner-gameplay-scripting)
 - [https://www.patrykgalach.com/2020/05/11/guide-to-web-dev-with-unity/](https://www.patrykgalach.com/2020/05/11/guide-to-web-dev-with-unity/)
@@ -784,4 +892,8 @@
 - [https://webring.xxiivv.com/wiki.html](https://webring.xxiivv.com/wiki.html)
 ## Windows
 ###  
+- [Scheduled-Tasks https://docs.microsoft.com/en-us/sysinternals/downloads/pstools](Scheduled-Tasks https://docs.microsoft.com/en-us/sysinternals/downloads/pstools)
 - [https://github.com/hsab/WSL-config](https://github.com/hsab/WSL-config)
+## XS
+###  
+- [https://owasp.org/www-community/attacks/xss/](https://owasp.org/www-community/attacks/xss/)
