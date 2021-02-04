@@ -1,9 +1,16 @@
 # Links
+## AI
+###  
+- [http://old.sf.bg.ac.rs/index.php/sr-RS/katedre/59-katedra-za-operaciona-istrazivanja-u-saobracaju/814-bee-colony-optimization-bco](http://old.sf.bg.ac.rs/index.php/sr-RS/katedre/59-katedra-za-operaciona-istrazivanja-u-saobracaju/814-bee-colony-optimization-bco)
+## AWS
+###  
+- [https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc)
 ## Agile
 ###  
 - [ https://www.atlassian.com/agile]( https://www.atlassian.com/agile)
 ## Algorithms
 ###  
+- [http://old.sf.bg.ac.rs/index.php/sr-RS/katedre/59-katedra-za-operaciona-istrazivanja-u-saobracaju/814-bee-colony-optimization-bco](http://old.sf.bg.ac.rs/index.php/sr-RS/katedre/59-katedra-za-operaciona-istrazivanja-u-saobracaju/814-bee-colony-optimization-bco)
 - [ https://cp-algorithms.com/]( https://cp-algorithms.com/)
 - [https://codeforces.com/blog/entry/77137](https://codeforces.com/blog/entry/77137)
 - [https://algorithms-tour.stitchfix.com/](https://algorithms-tour.stitchfix.com/)
@@ -118,6 +125,15 @@
 - [https://www.youtube.com/playlist?list=PLLucmoeZjtMQK8T111wCvqnfOd0qGFqzL](https://www.youtube.com/playlist?list=PLLucmoeZjtMQK8T111wCvqnfOd0qGFqzL)
 ## Collection
 ###  
+- [https://cstack.github.io/db_tutorial/](https://cstack.github.io/db_tutorial/)
+- [https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3](https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+- [https://gist.github.com/vasanthk/485d1c25737e8e72759f](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+- [https://github.com/haibchen/scalability](https://github.com/haibchen/scalability)
+- [https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc)
+- [ https://docs.google.com/document/u/0/d/1-UiEeoiV0xBFVZgid63FRaph03OCmHzyEExubn63j0U/view]( https://docs.google.com/document/u/0/d/1-UiEeoiV0xBFVZgid63FRaph03OCmHzyEExubn63j0U/view)
+- [https://courses.edx.org/courses/course-v1:StanfordOnline+SOE.YCSCS1+3T2020/course/](https://courses.edx.org/courses/course-v1:StanfordOnline+SOE.YCSCS1+3T2020/course/)
+- [ https://docs.mitmproxy.org/stable/mitmproxytutorial-userinterface/]( https://docs.mitmproxy.org/stable/mitmproxytutorial-userinterface/)
+- [ https://docs.google.com/document/d/1iKk6vJbWtI02AllnIEZTrKWQb4dT2QthJdRt05vq6Hw/edit]( https://docs.google.com/document/d/1iKk6vJbWtI02AllnIEZTrKWQb4dT2QthJdRt05vq6Hw/edit)
 - [ https://www.youtube.com/watch?v=wvVqDkX8U4A&list=PLl0KD3g-oDOHElCF7S7q6CRGz1qG8vQkS]( https://www.youtube.com/watch?v=wvVqDkX8U4A&list=PLl0KD3g-oDOHElCF7S7q6CRGz1qG8vQkS)
 - [ https://www.youtube.com/watch?v=bRxzCeyOKD0&list=PLVFrD1dmDdve4h3Shk0uePpXp8JUMM1w5&index=4]( https://www.youtube.com/watch?v=bRxzCeyOKD0&list=PLVFrD1dmDdve4h3Shk0uePpXp8JUMM1w5&index=4)
 - [https://www.youtube.com/watch?v=Ou-D8x72xBc&list=PLPiOSvowot1Ky0_OiXzpA0vU09iI06lQb](https://www.youtube.com/watch?v=Ou-D8x72xBc&list=PLPiOSvowot1Ky0_OiXzpA0vU09iI06lQb)
@@ -169,6 +185,9 @@
 ## Competitions
 ###  
 - [https://www.graphis.com/competitions/recent-entries/](https://www.graphis.com/competitions/recent-entries/)
+## Compiler
+###  
+- [https://courses.edx.org/courses/course-v1:StanfordOnline+SOE.YCSCS1+3T2020/course/](https://courses.edx.org/courses/course-v1:StanfordOnline+SOE.YCSCS1+3T2020/course/)
 ## Computer
 ###  
 - [https://github.com/lauris/awesome-scala#graphical-user-interfaces](https://github.com/lauris/awesome-scala#graphical-user-interfaces)
@@ -233,6 +252,7 @@
 - [http://www.corpit.ru/mjt/tinycdb.html](http://www.corpit.ru/mjt/tinycdb.html)
 ## Databases
 ###  
+- [https://cstack.github.io/db_tutorial/](https://cstack.github.io/db_tutorial/)
 - [ https://sqlzoo.net/]( https://sqlzoo.net/)
 - [https://spots.augusta.edu/caubert/db/ln/](https://spots.augusta.edu/caubert/db/ln/)
 - [https://www.youtube.com/watch?v=aYDBdevdwyQ](https://www.youtube.com/watch?v=aYDBdevdwyQ)
@@ -334,6 +354,9 @@
 ## Font
 ###  
 - [https://github.com/tonsky/FiraCode](https://github.com/tonsky/FiraCode)
+## Frameworks
+###  
+- [ https://docs.google.com/document/u/0/d/1-UiEeoiV0xBFVZgid63FRaph03OCmHzyEExubn63j0U/view]( https://docs.google.com/document/u/0/d/1-UiEeoiV0xBFVZgid63FRaph03OCmHzyEExubn63j0U/view)
 ## GCC
 ###  
 - [https://www.geeksforgeeks.org/builtin-functions-gcc-compiler/](https://www.geeksforgeeks.org/builtin-functions-gcc-compiler/)
@@ -388,6 +411,7 @@
 - [https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
 ## Guide
 ###  
+- [https://github.com/haibchen/scalability](https://github.com/haibchen/scalability)
 - [https://github.com/goldbergyoni/nodebestpractices#readme](https://github.com/goldbergyoni/nodebestpractices#readme)
 - [https://drive.google.com/file/d/1yVp8BO11Ijt44J8Nn95SD7XjvzrLBJaU/view](https://drive.google.com/file/d/1yVp8BO11Ijt44J8Nn95SD7XjvzrLBJaU/view)
 - [https://xyproblem.info/](https://xyproblem.info/)
@@ -476,6 +500,9 @@
 - [ https://www.youtube.com/watch?v=6ueyZGhtj1Q]( https://www.youtube.com/watch?v=6ueyZGhtj1Q)
 - [ https://www.slideshare.net/jakonix/5textmining]( https://www.slideshare.net/jakonix/5textmining)
 - [https://makelinux.github.io/kernel/map/](https://makelinux.github.io/kernel/map/)
+## MITMProxy
+###  
+- [ https://docs.mitmproxy.org/stable/mitmproxytutorial-userinterface/]( https://docs.mitmproxy.org/stable/mitmproxytutorial-userinterface/)
 ## ML
 ###  
 - [https://cloud.google.com/products/ai/ml-comic-1](https://cloud.google.com/products/ai/ml-comic-1)
@@ -542,6 +569,7 @@
 - [https://www.youtube.com/playlist?list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN](https://www.youtube.com/playlist?list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN)
 ## Networks
 ###  
+- [ https://docs.mitmproxy.org/stable/mitmproxytutorial-userinterface/]( https://docs.mitmproxy.org/stable/mitmproxytutorial-userinterface/)
 - [ https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/kerberos-for-the-busy-admin/ba-p/395083]( https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/kerberos-for-the-busy-admin/ba-p/395083)
 - [https://howhttps.works/why-do-we-need-https/](https://howhttps.works/why-do-we-need-https/)
 ## Nodejs
@@ -664,6 +692,7 @@
 - [ https://youtu.be/ujb2CIWE8zY]( https://youtu.be/ujb2CIWE8zY)
 ## React
 ###  
+- [https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3](https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 - [https://dev.to/nas5w/learn-the-basics-of-redux-by-writing-your-own-version-in-30-lines-1if3](https://dev.to/nas5w/learn-the-basics-of-redux-by-writing-your-own-version-in-30-lines-1if3)
 ## Reading
 ###  
@@ -742,11 +771,22 @@
 - [https://java2blog.com/spring-mvc-tutorial/](https://java2blog.com/spring-mvc-tutorial/)
 - [https://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7](https://www.youtube.com/playlist?list=PLC97BDEFDCDD169D7)
 - [https://start.spring.io/](https://start.spring.io/)
+## Startups
+###  
+- [ https://docs.google.com/document/u/0/d/1-UiEeoiV0xBFVZgid63FRaph03OCmHzyEExubn63j0U/view]( https://docs.google.com/document/u/0/d/1-UiEeoiV0xBFVZgid63FRaph03OCmHzyEExubn63j0U/view)
 ## Status
 ###  
 - [https://year.chat/](https://year.chat/)
+## SwarmIntelligence
+###  
+- [http://old.sf.bg.ac.rs/index.php/sr-RS/katedre/59-katedra-za-operaciona-istrazivanja-u-saobracaju/814-bee-colony-optimization-bco](http://old.sf.bg.ac.rs/index.php/sr-RS/katedre/59-katedra-za-operaciona-istrazivanja-u-saobracaju/814-bee-colony-optimization-bco)
 ## SystemDesign
 ###  
+- [https://gist.github.com/vasanthk/485d1c25737e8e72759f](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+- [https://github.com/haibchen/scalability](https://github.com/haibchen/scalability)
+- [https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc)
+- [https://www.facebook.com/notes/facebook-engineering/live-commenting-behind-the-scenes/496077348919/](https://www.facebook.com/notes/facebook-engineering/live-commenting-behind-the-scenes/496077348919/)
+- [ https://docs.google.com/document/d/1iKk6vJbWtI02AllnIEZTrKWQb4dT2QthJdRt05vq6Hw/edit]( https://docs.google.com/document/d/1iKk6vJbWtI02AllnIEZTrKWQb4dT2QthJdRt05vq6Hw/edit)
 - [https://www.codekarle.com/](https://www.codekarle.com/)
 - [http://highscalability.com/all-time-favorites/](http://highscalability.com/all-time-favorites/)
 - [https://docs.google.com/spreadsheets/u/0/d/17tmeNJfKBvVV3bG2fYlMpqTxUIfljqmnmkaeY6Xekuo/htmlview#gid=0](https://docs.google.com/spreadsheets/u/0/d/17tmeNJfKBvVV3bG2fYlMpqTxUIfljqmnmkaeY6Xekuo/htmlview#gid=0)
@@ -827,6 +867,7 @@
 - [https://gnulinux.guru/](https://gnulinux.guru/)
 ## Tutorial
 ###  
+- [https://cstack.github.io/db_tutorial/](https://cstack.github.io/db_tutorial/)
 - [https://ocw.mit.edu/courses/mathematics/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/index.htm](https://ocw.mit.edu/courses/mathematics/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/index.htm)
 - [ https://sqlzoo.net/]( https://sqlzoo.net/)
 - [https://github.com/memcached/memcached/wiki/TutorialCachingStory](https://github.com/memcached/memcached/wiki/TutorialCachingStory)

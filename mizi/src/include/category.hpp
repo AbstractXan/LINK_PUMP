@@ -8,7 +8,7 @@ struct Category
 {
     std::string name;
     int pageCount;
-    Page * pages[200];
+    Page * pages[250];
 };
 
 Category *createCategory(Category *Categories[16], std::string name, int count);
