@@ -2,8 +2,12 @@
 ## AI
 ###  
 - [http://old.sf.bg.ac.rs/index.php/sr-RS/katedre/59-katedra-za-operaciona-istrazivanja-u-saobracaju/814-bee-colony-optimization-bco](http://old.sf.bg.ac.rs/index.php/sr-RS/katedre/59-katedra-za-operaciona-istrazivanja-u-saobracaju/814-bee-colony-optimization-bco)
+## AIML
+###  
+- [https://www.featurestore.org](https://www.featurestore.org)
 ## AWS
 ###  
+- [https://www.youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb](https://www.youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb)
 - [https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc)
 ## Agile
 ###  
@@ -58,6 +62,9 @@
 ## Behavioral
 ###  
 - [https://www.youtube.com/playlist?list=PLLucmoeZjtMQK8T111wCvqnfOd0qGFqzL](https://www.youtube.com/playlist?list=PLLucmoeZjtMQK8T111wCvqnfOd0qGFqzL)
+## Blog
+###  
+- [https://blog.jfedor.org/](https://blog.jfedor.org/)
 ## Browser
 ###  
 - [https://qutebrowser.org/](https://qutebrowser.org/)
@@ -108,15 +115,28 @@
 ## CSS
 ###  
 - [https://www.bonsaicss.com/](https://www.bonsaicss.com/)
+## CV
+###  
+- [https://arxiv.org/abs/2101.12059](https://arxiv.org/abs/2101.12059)
 ## Chat
 ###  
 - [https://year.chat/](https://year.chat/)
+## Chrome
+###  
+- [https://www.youtube.com/watch?v=xqJjyUpYEw0](https://www.youtube.com/watch?v=xqJjyUpYEw0)
 ## CleanCode
 ###  
 - [https://www.youtube.com/watch?v=7EmboKQH8lM](https://www.youtube.com/watch?v=7EmboKQH8lM)
+## Cloud
+###  
+- [Azure https://youtube.com/playlist?list=PLLasX02E8BPDT2Z2pdCHNCkENpcQWy5n6](Azure https://youtube.com/playlist?list=PLLasX02E8BPDT2Z2pdCHNCkENpcQWy5n6)
 ## Cobbler
 ###  
 - [ https://cobbler.github.io/quickstart/]( https://cobbler.github.io/quickstart/)
+## Codecs
+###  
+- [https://www.youtube.com/watch?v=xqJjyUpYEw0](https://www.youtube.com/watch?v=xqJjyUpYEw0)
+- [https://www.youtube.com/watch?v=wX9KGRHaMEY](https://www.youtube.com/watch?v=wX9KGRHaMEY)
 ## Coding
 ###  
 - [https://stackoverflow.com/questions/53678392/h-tree-using-recursion-python](https://stackoverflow.com/questions/53678392/h-tree-using-recursion-python)
@@ -125,6 +145,11 @@
 - [https://www.youtube.com/playlist?list=PLLucmoeZjtMQK8T111wCvqnfOd0qGFqzL](https://www.youtube.com/playlist?list=PLLucmoeZjtMQK8T111wCvqnfOd0qGFqzL)
 ## Collection
 ###  
+- [https://madewithml.com/](https://madewithml.com/)
+- [https://www.youtube.com/playlist?list=PLwcQbu9cKWclSZ5X1D2BFr3t4jBzpiSoi](https://www.youtube.com/playlist?list=PLwcQbu9cKWclSZ5X1D2BFr3t4jBzpiSoi)
+- [https://www.youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb](https://www.youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb)
+- [Azure https://youtube.com/playlist?list=PLLasX02E8BPDT2Z2pdCHNCkENpcQWy5n6](Azure https://youtube.com/playlist?list=PLLasX02E8BPDT2Z2pdCHNCkENpcQWy5n6)
+- [http://www.bottomupcs.com/](http://www.bottomupcs.com/)
 - [https://cstack.github.io/db_tutorial/](https://cstack.github.io/db_tutorial/)
 - [https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3](https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 - [https://gist.github.com/vasanthk/485d1c25737e8e72759f](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
@@ -283,6 +308,7 @@
 - [https://start.spring.io/](https://start.spring.io/)
 ## DevOps
 ###  
+- [https://stanford-cs329s.github.io/index.html](https://stanford-cs329s.github.io/index.html)
 - [https://linkedin.github.io/school-of-sre/](https://linkedin.github.io/school-of-sre/)
 - [https://github.com/cncf/curriculum](https://github.com/cncf/curriculum)
 - [https://labs.play-with-k8s.com/](https://labs.play-with-k8s.com/)
@@ -293,6 +319,7 @@
 - [https://www.patrykgalach.com/2020/05/11/guide-to-web-dev-with-unity/](https://www.patrykgalach.com/2020/05/11/guide-to-web-dev-with-unity/)
 ## DevTool
 ###  
+- [https://www.unisonweb.org/](https://www.unisonweb.org/)
 - [https://jrnl.sh/](https://jrnl.sh/)
 - [http://genparse.sourceforge.net/](http://genparse.sourceforge.net/)
 - [https://sourcehut.org](https://sourcehut.org)
@@ -345,6 +372,9 @@
 ## Fastreading
 ###  
 - [https://www.fready.co/blog/reading-techniques](https://www.fready.co/blog/reading-techniques)
+## Feature/DataEngineering
+###  
+- [https://www.featurestore.org](https://www.featurestore.org)
 ## Fixes
 ###  
 - [ https://www.reddit.com/r/ansible/comments/dsk4x6/being_escaped_in_extravars/]( https://www.reddit.com/r/ansible/comments/dsk4x6/being_escaped_in_extravars/)
@@ -447,6 +477,9 @@
 ## Introductory
 ###  
 - [ https://www.slideshare.net/jakonix/5textmining]( https://www.slideshare.net/jakonix/5textmining)
+## Iot
+###  
+- [https://blog.jfedor.org/](https://blog.jfedor.org/)
 ## Java
 ###  
 - [https://java2blog.com/spring-mvc-tutorial/](https://java2blog.com/spring-mvc-tutorial/)
@@ -505,6 +538,9 @@
 - [ https://docs.mitmproxy.org/stable/mitmproxytutorial-userinterface/]( https://docs.mitmproxy.org/stable/mitmproxytutorial-userinterface/)
 ## ML
 ###  
+- [https://madewithml.com/](https://madewithml.com/)
+- [https://stanford-cs329s.github.io/index.html](https://stanford-cs329s.github.io/index.html)
+- [https://arxiv.org/abs/2101.12059](https://arxiv.org/abs/2101.12059)
 - [https://cloud.google.com/products/ai/ml-comic-1](https://cloud.google.com/products/ai/ml-comic-1)
 - [https://www.kaggle.com/rhodiumbeng/classifying-multi-label-comments-0-9741-lb](https://www.kaggle.com/rhodiumbeng/classifying-multi-label-comments-0-9741-lb)
 - [https://orange.biolab.si/](https://orange.biolab.si/)
@@ -559,6 +595,7 @@
 - [https://learningmusic.ableton.com](https://learningmusic.ableton.com)
 ## NLP
 ###  
+- [https://arxiv.org/abs/2101.12059](https://arxiv.org/abs/2101.12059)
 - [https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
 ## Netlify
 ###  
@@ -591,6 +628,7 @@
 - [http://principles-wiki.net/collections:ood_principle_language](http://principles-wiki.net/collections:ood_principle_language)
 ## OS
 ###  
+- [http://www.bottomupcs.com/](http://www.bottomupcs.com/)
 - [https://github.com/klikaba/klika-os](https://github.com/klikaba/klika-os)
 - [https://github.com/marvinborner/Melvix](https://github.com/marvinborner/Melvix)
 ## OS.Linux
@@ -644,6 +682,7 @@
 - [https://www.youtube.com/watch?v=wbpMiKiSKm8&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3](https://www.youtube.com/watch?v=wbpMiKiSKm8&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3)
 ## Productivity
 ###  
+- [https://archivy.github.io/](https://archivy.github.io/)
 - [https://www.usebubbles.com/](https://www.usebubbles.com/)
 - [Editing https://www.youtube.com/watch?v=Bl9wqNe5J8U&feature=youtu.be](Editing https://www.youtube.com/watch?v=Bl9wqNe5J8U&feature=youtu.be)
 - [https://github.com/johannesjo/super-productivity](https://github.com/johannesjo/super-productivity)
@@ -654,6 +693,7 @@
 - [https://youtu.be/65Wq4fjREUU](https://youtu.be/65Wq4fjREUU)
 ## Programming
 ###  
+- [https://www.unisonweb.org/](https://www.unisonweb.org/)
 - [https://dev.to/deepu105/concurrency-in-modern-programming-languages-rust-19co](https://dev.to/deepu105/concurrency-in-modern-programming-languages-rust-19co)
 - [https://cses.fi/book/book.pdf](https://cses.fi/book/book.pdf)
 - [http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.pdf)
@@ -673,6 +713,9 @@
 - [http://www.gnu.org/software/make/manual/make.html#Introduction](http://www.gnu.org/software/make/manual/make.html#Introduction)
 - [http://makefiletutorial.com](http://makefiletutorial.com)
 - [http://nuclear.mutantstargoat.com/articles/make/](http://nuclear.mutantstargoat.com/articles/make/)
+## ProgrammingLanguage
+###  
+- [https://www.unisonweb.org/](https://www.unisonweb.org/)
 ## Python
 ###  
 - [ https://www.guru99.com/python-counter-collections-example.html]( https://www.guru99.com/python-counter-collections-example.html)
@@ -680,8 +723,12 @@
 ###  
 - [ https://www.reddit.com/r/personalfinance/wiki/tools]( https://www.reddit.com/r/personalfinance/wiki/tools)
 - [https://beepb00p.xyz/myinfra.html](https://beepb00p.xyz/myinfra.html)
+## RSS
+###  
+- [https://atthis.link/blog/2021/rss.html](https://atthis.link/blog/2021/rss.html)
 ## Rabbithole
 ###  
+- [https://blog.jfedor.org/](https://blog.jfedor.org/)
 - [https://www.howtobuildsoftware.com](https://www.howtobuildsoftware.com)
 - [https://opguides.info](https://opguides.info)
 - [https://media.handmade-seattle.com/](https://media.handmade-seattle.com/)
@@ -743,6 +790,7 @@
 - [https://owasp.org/www-community/attacks/xss/](https://owasp.org/www-community/attacks/xss/)
 ## SelfHosted
 ###  
+- [https://archivy.github.io/](https://archivy.github.io/)
 - [https://www.bookstackapp.com/](https://www.bookstackapp.com/)
 ## Serverless
 ###  
@@ -773,6 +821,8 @@
 - [https://start.spring.io/](https://start.spring.io/)
 ## Startups
 ###  
+- [https://firstround.com/review/how-to-build-an-invention-machine-6-lessons-that-powered-amazons-success/](https://firstround.com/review/how-to-build-an-invention-machine-6-lessons-that-powered-amazons-success/)
+- [https://www.youtube.com/playlist?list=PLwcQbu9cKWclSZ5X1D2BFr3t4jBzpiSoi](https://www.youtube.com/playlist?list=PLwcQbu9cKWclSZ5X1D2BFr3t4jBzpiSoi)
 - [ https://docs.google.com/document/u/0/d/1-UiEeoiV0xBFVZgid63FRaph03OCmHzyEExubn63j0U/view]( https://docs.google.com/document/u/0/d/1-UiEeoiV0xBFVZgid63FRaph03OCmHzyEExubn63j0U/view)
 ## Status
 ###  
@@ -782,6 +832,9 @@
 - [http://old.sf.bg.ac.rs/index.php/sr-RS/katedre/59-katedra-za-operaciona-istrazivanja-u-saobracaju/814-bee-colony-optimization-bco](http://old.sf.bg.ac.rs/index.php/sr-RS/katedre/59-katedra-za-operaciona-istrazivanja-u-saobracaju/814-bee-colony-optimization-bco)
 ## SystemDesign
 ###  
+- [https://stanford-cs329s.github.io/index.html](https://stanford-cs329s.github.io/index.html)
+- [https://www.youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb](https://www.youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb)
+- [https://eytanmanor.medium.com/an-architectural-overview-for-web-rtc-a-protocol-for-implementing-video-conferencing-e2a914628d0e](https://eytanmanor.medium.com/an-architectural-overview-for-web-rtc-a-protocol-for-implementing-video-conferencing-e2a914628d0e)
 - [https://gist.github.com/vasanthk/485d1c25737e8e72759f](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 - [https://github.com/haibchen/scalability](https://github.com/haibchen/scalability)
 - [https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc)
@@ -805,6 +858,10 @@
 ## Talk
 ###  
 - [http://dream.netizen.org/events.html](http://dream.netizen.org/events.html)
+## TechTalk
+###  
+- [https://www.youtube.com/playlist?list=PLwcQbu9cKWclSZ5X1D2BFr3t4jBzpiSoi](https://www.youtube.com/playlist?list=PLwcQbu9cKWclSZ5X1D2BFr3t4jBzpiSoi)
+- [https://www.youtube.com/watch?v=xqJjyUpYEw0](https://www.youtube.com/watch?v=xqJjyUpYEw0)
 ## Technology
 ###  
 - [https://www.youtube.com/watch?v=ZFP2sb28OGU&t=691s](https://www.youtube.com/watch?v=ZFP2sb28OGU&t=691s)
@@ -829,6 +886,7 @@
 - [https://gitlab.com/joshavanier/log](https://gitlab.com/joshavanier/log)
 ## Tool
 ###  
+- [https://archivy.github.io/](https://archivy.github.io/)
 - [Editing https://www.youtube.com/watch?v=Bl9wqNe5J8U&feature=youtu.be](Editing https://www.youtube.com/watch?v=Bl9wqNe5J8U&feature=youtu.be)
 - [https://year.chat/](https://year.chat/)
 - [ https://anvaka.github.io/sayit/?query=]( https://anvaka.github.io/sayit/?query=)
@@ -852,6 +910,7 @@
 - [https://nesslabs.com/how-to-choose-the-right-note-taking-app](https://nesslabs.com/how-to-choose-the-right-note-taking-app)
 ## Tools
 ###  
+- [https://atthis.link/blog/2021/rss.html](https://atthis.link/blog/2021/rss.html)
 - [https://www.shotcut.org/download/](https://www.shotcut.org/download/)
 - [https://amorphous.itch.io/strike](https://amorphous.itch.io/strike)
 - [https://www.usebubbles.com/](https://www.usebubbles.com/)
@@ -867,6 +926,8 @@
 - [https://gnulinux.guru/](https://gnulinux.guru/)
 ## Tutorial
 ###  
+- [https://madewithml.com/](https://madewithml.com/)
+- [http://www.bottomupcs.com/](http://www.bottomupcs.com/)
 - [https://cstack.github.io/db_tutorial/](https://cstack.github.io/db_tutorial/)
 - [https://ocw.mit.edu/courses/mathematics/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/index.htm](https://ocw.mit.edu/courses/mathematics/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/index.htm)
 - [ https://sqlzoo.net/]( https://sqlzoo.net/)
@@ -901,6 +962,9 @@
 - [https://www.youtube.com/watch?v=wbpMiKiSKm8&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3](https://www.youtube.com/watch?v=wbpMiKiSKm8&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3)
 - [https://learn.unity.com/project/beginner-gameplay-scripting](https://learn.unity.com/project/beginner-gameplay-scripting)
 - [https://www.patrykgalach.com/2020/05/11/guide-to-web-dev-with-unity/](https://www.patrykgalach.com/2020/05/11/guide-to-web-dev-with-unity/)
+## Video
+###  
+- [https://www.youtube.com/watch?v=wX9KGRHaMEY](https://www.youtube.com/watch?v=wX9KGRHaMEY)
 ## Vim
 ###  
 - [http://vimsheet.com](http://vimsheet.com)
@@ -928,6 +992,9 @@
 - [https://www.pcmaffey.com/roll-your-own-analytics](https://www.pcmaffey.com/roll-your-own-analytics)
 - [https://ngrok.com/](https://ngrok.com/)
 - [https://www.patrykgalach.com/2020/05/11/guide-to-web-dev-with-unity/](https://www.patrykgalach.com/2020/05/11/guide-to-web-dev-with-unity/)
+## WebRTC
+###  
+- [https://eytanmanor.medium.com/an-architectural-overview-for-web-rtc-a-protocol-for-implementing-video-conferencing-e2a914628d0e](https://eytanmanor.medium.com/an-architectural-overview-for-web-rtc-a-protocol-for-implementing-video-conferencing-e2a914628d0e)
 ## Webring
 ###  
 - [https://webring.xxiivv.com/wiki.html](https://webring.xxiivv.com/wiki.html)
